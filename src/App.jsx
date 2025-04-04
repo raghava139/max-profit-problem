@@ -22,6 +22,7 @@ const App = () => {
         margin: "20px auto",
         textAlign: "center",
         padding: 20,
+        border:'2px solid grey'
       }}
     >
       <div style={{ textAlign: "left" }}>
